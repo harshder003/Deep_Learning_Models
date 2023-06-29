@@ -20,4 +20,4 @@ AI for Prognosis includes 4 assignments.
 AI for Medical Treatment includes 3 assignments.
 1. In [first assignment](./AI%20for%20Medical%20Treatment/Week%201/C3_W1_Assignment.ipynb), I have used different methods to evaluate the results of a randomized control trial (RCT).
 2.  In [second assignment](./AI%20for%20Medical%20Treatment/Week%202/C3_W2_Assignment.ipynb), I have learnt to extract information from unstructured medical text.This assignment is inspired by the work done by Irvin et al.
-3.  In [third assignment](./AI%20for%20Medical%20Treatment/Week%203/C3_W3_Assignment.ipynb), 
+3.  In [third assignment](./AI%20for%20Medical%20Treatment/Week%203/C3_W3_Assignment.ipynb), I have focused on the interpretation of machine learning and deep learning models.
